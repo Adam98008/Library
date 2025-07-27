@@ -5,7 +5,7 @@
 }
 
 header {
-    background-image: url('/static/images/books image.jpg');
+    background-image: url('/static/images/booksimage.jpg');
     background-size: cover;
     height: 100vh;
     display: flex;
