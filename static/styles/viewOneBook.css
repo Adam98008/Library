@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: rgb(238, 247, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div
+{
+    background-color: white;
+    margin: 140px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 25px;
+    font-style: bold;
+}
+h1
+{
+    color: rgb(49, 116, 251);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+p
+{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(49, 116, 251);
+}
+span
+{
+    font-size: large;
+    font-weight: bold;
+    color:black;
+}
