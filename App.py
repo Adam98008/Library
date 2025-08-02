@@ -8,7 +8,7 @@ app = Flask(__name__)
  
 
 
-# Set the database path relative to the project root
+# Set the database path relative to the project root #
 DATABASE = os.path.join(os.getcwd(), 'Database.db')
 
 
